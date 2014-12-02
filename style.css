@@ -1,0 +1,99 @@
+body {
+	background-color: #6591D5;
+
+}
+h1 {
+	text-align: center;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+button {
+	width: 200px;
+	margin-left: 530px;
+	border-top: 10px;
+}
+
+.grid {
+    border: 1px solid black;
+	border-collapse: collapse;
+	background-color: #66DF9A;
+	width: 400px;
+	height: 400px;
+	margin: 0 auto;
+	vertical-align: middle;
+	font-size: 90px;
+	text-align: center;
+}
+
+.A {
+	color: blue;
+}
+.B {
+	color: red;
+}
+.C { 
+    color: black;
+}
+.D {
+	color: blue;
+}
+.E {
+    color: red;
+}
+.F {
+	color: black;
+}
+.G {
+    color: blue;
+}
+.H {
+	color: red;
+}
+
+#square_1 {
+	border: 1px solid black;
+}
+#square_2 {
+	border: 1px solid black;
+}
+#square_3 {
+	border: 1px solid black;
+}
+#square_4 {
+	border: 1px solid black;
+}
+#square_5 {
+	border: 1px solid black;
+}
+#square_6 {
+	border: 1px solid black;
+}
+#square_7 {
+	border: 1px solid black;
+}
+#square_8 {
+	border: 1px solid black;
+}
+#square_9 {
+	border: 1px solid black;
+}
+#square_10 {
+	border: 1px solid black;
+}
+#square_11 {
+	border: 1px solid black;
+}
+#square_12 {
+	border: 1px solid black;
+}
+#square_13 {
+	border: 1px solid black;
+}
+#square_14 {
+	border: 1px solid black;
+}
+#square_15 {
+	border: 1px solid black;
+}
+#square_16 {
+	border: 1px solid black;
+}
